@@ -1,5 +1,5 @@
-array = ["Tim Jones", "Tom Smith", "Jim Campagno"]
-my_collect(array) do |name|
-  name.split(" ").first
+array = ["Cat", "Dog", "turtle"]
+my_collect(array) do |pet|
+  pet.split(" ").first
 end
 
